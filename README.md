@@ -43,9 +43,9 @@ I'm an IT Professional with 2+ year of experience specializing in **web developm
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoAndrie&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoAndrie&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

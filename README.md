@@ -41,12 +41,6 @@ I'm an IT Professional with 2+ year of experience specializing in **web developm
 📍 Cebu City, Philippines  
 📧 fabijonathanandrie@gmail.com
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoAndrie&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoAndrie&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 💡 *Passionate about building quality software and continuously learning new technologies*
